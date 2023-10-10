@@ -13,7 +13,7 @@ public class Calculator
         
         int value2 = myObj.nextInt();
 
-        int result = value1 + value2;
+        int result = value1 / value2;
 
         System.out.println("Here is the result: " + result);
 
